@@ -1,0 +1,8 @@
+tensorboard
+seaborn
+pyyaml
+addict
+scikit-learn
+umap-learn
+tqdm
+albumentations
